@@ -15,8 +15,8 @@ Laravel and Inertia are already one application, so a reviewer can install depen
 Clone the repository and run these commands from the folder that contains `artisan`. You need PHP 8.3 or newer, Composer, and Node.js 20 or newer. No database server, Redis, or mail account is required. The app uses SQLite, and enquiry email is written to the log.
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/sathishreddy-np/officeworks-catalogue.git
+cd officeworks-catalogue
 composer setup
 composer dev
 ```
