@@ -3,6 +3,7 @@
 // PHP start tag.
 
 // Mail classes describe one email: who it is about, the subject, and the template.
+
 namespace App\Mail;
 
 use App\Models\Enquiry;

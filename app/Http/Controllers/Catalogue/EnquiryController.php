@@ -3,6 +3,7 @@
 // PHP start tag.
 
 // This controller answers POST /products/11/enquiries.
+
 namespace App\Http\Controllers\Catalogue;
 
 use App\Catalogue\CatalogueUnavailable;

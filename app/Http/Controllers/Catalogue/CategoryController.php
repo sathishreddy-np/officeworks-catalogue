@@ -3,6 +3,7 @@
 // PHP start tag.
 
 // This controller answers GET /categories/{category}.
+
 namespace App\Http\Controllers\Catalogue;
 
 use App\Catalogue\CatalogueUnavailable;

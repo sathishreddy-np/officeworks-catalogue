@@ -3,6 +3,7 @@
 // PHP start tag.
 
 // Folder address of the Product class.
+
 namespace App\Catalogue;
 
 // Str is Laravel's text helper. We use it to make a safe URL from a category name.

@@ -3,6 +3,7 @@
 // PHP start tag.
 
 // This class is the Fake Store implementation of the catalogue promise.
+
 namespace App\Catalogue;
 
 // Thrown when the network connection to Fake Store fails.

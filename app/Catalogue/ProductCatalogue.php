@@ -3,6 +3,7 @@
 // PHP start tag.
 
 // Folder address of this interface.
+
 namespace App\Catalogue;
 
 // An interface is a promise: any catalogue class must offer these methods.

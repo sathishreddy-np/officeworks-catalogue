@@ -3,6 +3,7 @@
 // PHP start tag.
 
 // Shared helper used by the catalogue page controllers.
+
 namespace App\Http\Controllers\Catalogue;
 
 // Our "the product API is down" error.

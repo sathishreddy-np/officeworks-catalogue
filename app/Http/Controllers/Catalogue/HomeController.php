@@ -3,6 +3,7 @@
 // PHP start tag.
 
 // This controller answers GET /, the home page.
+
 namespace App\Http\Controllers\Catalogue;
 
 use App\Catalogue\CatalogueUnavailable;

@@ -3,6 +3,7 @@
 // PHP start tag.
 
 // Folder address of the category-page data object.
+
 namespace App\Catalogue;
 
 // One category page: its name, its URL slug, the top-rated products, and the rest.

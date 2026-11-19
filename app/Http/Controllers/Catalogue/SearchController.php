@@ -3,6 +3,7 @@
 // PHP start tag.
 
 // This controller answers GET /search?q=jacket.
+
 namespace App\Http\Controllers\Catalogue;
 
 use App\Catalogue\CatalogueUnavailable;

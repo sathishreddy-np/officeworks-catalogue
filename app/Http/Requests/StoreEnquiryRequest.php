@@ -3,6 +3,7 @@
 // PHP start tag.
 
 // Form requests live in this folder. Laravel runs one before the controller action.
+
 namespace App\Http\Requests;
 
 use Illuminate\Contracts\Validation\ValidationRule;

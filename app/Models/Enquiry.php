@@ -3,6 +3,7 @@
 // PHP start tag.
 
 // Eloquent models live here. A model is a PHP class that reads and writes one database table.
+
 namespace App\Models;
 
 // Fillable lists the columns we are allowed to set with Enquiry::create([...]).

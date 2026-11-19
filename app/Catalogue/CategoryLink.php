@@ -3,6 +3,7 @@
 // PHP start tag.
 
 // Folder address of this small data object.
+
 namespace App\Catalogue;
 
 // readonly means the three values cannot be changed after the object is created.
