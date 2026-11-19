@@ -112,9 +112,7 @@ export default function Product({
                                             />
                                         </div>
                                         <div className="grid gap-2">
-                                            <Label htmlFor="email">
-                                                Email
-                                            </Label>
+                                            <Label htmlFor="email">Email</Label>
                                             <Input
                                                 id="email"
                                                 name="email"
@@ -127,9 +125,7 @@ export default function Product({
                                             />
                                         </div>
                                         <div className="grid gap-2">
-                                            <Label htmlFor="phone">
-                                                Phone
-                                            </Label>
+                                            <Label htmlFor="phone">Phone</Label>
                                             <Input
                                                 id="phone"
                                                 name="phone"
@@ -150,7 +146,7 @@ export default function Product({
                                                 name="message"
                                                 required
                                                 rows={4}
-                                                className="border-input w-full rounded-md border bg-transparent px-3 py-2 text-sm shadow-xs outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px]"
+                                                className="w-full rounded-md border border-input bg-transparent px-3 py-2 text-sm shadow-xs outline-none focus-visible:border-ring focus-visible:ring-[3px] focus-visible:ring-ring/50"
                                             />
                                             <InputError
                                                 message={formErrors.message}

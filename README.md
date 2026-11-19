@@ -47,13 +47,13 @@ Copy `.env.example` to `.env` yourself only if you want to change configuration 
 
 The five home-page products are chosen in `config/catalogue.php`:
 
-| Id | Product |
-| --- | --- |
-| 11 | Silicon Power 256GB SSD |
-| 12 | WD 4TB gaming drive |
-| 3 | Mens cotton jacket |
-| 18 | MBJ boat-neck top |
-| 5 | John Hardy dragon bracelet |
+| Id  | Product                    |
+| --- | -------------------------- |
+| 11  | Silicon Power 256GB SSD    |
+| 12  | WD 4TB gaming drive        |
+| 3   | Mens cotton jacket         |
+| 18  | MBJ boat-neck top          |
+| 5   | John Hardy dragon bracelet |
 
 ## What you can do
 

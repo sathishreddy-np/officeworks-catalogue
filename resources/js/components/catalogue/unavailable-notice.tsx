@@ -8,9 +8,7 @@ export default function UnavailableNotice() {
             role="alert"
             className="rounded-2xl border border-[#D71920]/20 bg-white p-6 shadow-sm"
         >
-            <h1 className="text-xl font-bold">
-                The catalogue is unavailable
-            </h1>
+            <h1 className="text-xl font-bold">The catalogue is unavailable</h1>
             <p className="mt-2 max-w-xl text-[#4b4b4b]">
                 Product data could not be loaded. Nothing was requested from
                 your browser. Try again in a moment.

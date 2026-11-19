@@ -44,8 +44,8 @@ export default function Category({
                         </h2>
                         {additional.length === 0 ? (
                             <p className="mt-3 text-sm text-[#4b4b4b]">
-                                Every product in this category is already in
-                                the top rated set.
+                                Every product in this category is already in the
+                                top rated set.
                             </p>
                         ) : (
                             <div className="mt-4">

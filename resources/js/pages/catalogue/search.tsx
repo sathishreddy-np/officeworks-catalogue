@@ -26,8 +26,8 @@ export default function Search({
                     </h1>
                     {query === '' ? (
                         <p className="mt-3 text-[#4b4b4b]">
-                            Enter a search term and choose Search. Matching
-                            uses the product title and description.
+                            Enter a search term and choose Search. Matching uses
+                            the product title and description.
                         </p>
                     ) : (
                         <p className="mt-3 text-[#4b4b4b]">

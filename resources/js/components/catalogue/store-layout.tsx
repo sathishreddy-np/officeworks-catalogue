@@ -121,7 +121,9 @@ export default function StoreLayout({
                         />
                         <motion.button
                             type="submit"
-                            whileTap={reduceMotion ? undefined : { scale: 0.98 }}
+                            whileTap={
+                                reduceMotion ? undefined : { scale: 0.98 }
+                            }
                             className="m-1 inline-flex items-center gap-2 rounded-full bg-[#D71920] px-5 py-2 text-sm font-bold text-white hover:bg-[#b8141a]"
                         >
                             <Search className="size-4" />
