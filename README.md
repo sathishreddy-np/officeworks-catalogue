@@ -17,9 +17,12 @@ Clone the repository and run these commands from the folder that contains `artis
 ```bash
 git clone https://github.com/sathishreddy-np/officeworks-catalogue.git
 cd officeworks-catalogue
+git checkout catalogue
 composer setup
 composer dev
 ```
+
+`main` is the base branch for the open pull request. The catalogue source is on `catalogue`. Check that branch out before setup.
 
 Open [http://127.0.0.1:8000](http://127.0.0.1:8000).
 
